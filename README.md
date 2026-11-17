@@ -22,4 +22,4 @@ TypeScript, JavaScript, React, Next.js, Node.js, Python, Firebase, MongoDB, Sani
 
 ## Find me
 
-Portfolio: [growveloper.com/about](https://growveloper.com/about) Â· LinkedIn: [obajuwon-oyekola](https://www.linkedin.com/in/obajuwon-oyekola)
+Portfolio: [growveloper.com/about](https://growveloper.com/about) · LinkedIn: [obajuwon-oyekola](https://www.linkedin.com/in/obajuwon-oyekola)
